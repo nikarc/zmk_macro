@@ -1,0 +1,6 @@
+if SHIELD_HALFBALL
+
+config ZMK_KEYBOARD_NAME
+    default "halfball"
+
+endif

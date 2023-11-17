@@ -1,0 +1,9 @@
+file_format: "1"
+id: halfball
+name: halfball
+type: shield
+url: https://github.com/nikarc/halfball/
+requires: [nicenano]
+exposes: []
+features:
+  - keys

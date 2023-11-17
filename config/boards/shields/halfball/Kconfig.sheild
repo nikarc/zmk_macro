@@ -1,0 +1,2 @@
+config SHIELD_HALFBALL
+  def_bool $(shields_list_contains,halfball)
